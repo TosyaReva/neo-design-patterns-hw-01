@@ -31,8 +31,6 @@
 2. **Встановити залежності**
 
     ```bash
-    Copy
-    Edit
     npm install
     ```
 
